@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![bharatpatel7's Stats](https://github-readme-stats.vercel.app/api?username=bharatpatel7&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 
-[![bharat's GitHub stats](https://github-readme-stats.vercel.app/apibharatpatel7anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![bharat's GitHub stats](https://github-readme-stats.vercel.app/api?bharatpatel7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
