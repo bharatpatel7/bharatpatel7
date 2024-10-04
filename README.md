@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bharatpatel7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apibharatpatel7anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bharatpatel7/bharatpatel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
