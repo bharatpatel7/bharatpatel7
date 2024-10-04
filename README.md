@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![bharatpatel7's Stats](https://github-readme-stats.vercel.app/api?username=bharatpatel7&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+//![bharatpatel7's Stats](https://github-readme-stats.vercel.app/api?username=bharatpatel7&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 
-![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpatel7)](https://github.com/anuraghazra/github-readme-stats)
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpatel7)]
