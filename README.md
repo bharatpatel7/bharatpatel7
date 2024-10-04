@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 
 ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpatel7&show_icons=true&theme=transparent)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C095%20hrs%2026%20mins-blue)
