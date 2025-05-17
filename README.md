@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Bharat+Garsondiya!;" />
 </h1>
 
-<h3 align = "center" font>A Passionate, 2nd year Computer science student from University of Guelph! </h3>
+<h3 align = "center" font>A Passionate, 3rd year Computer science student from University of Guelph! </h3>
 
 
 <div align="center"> 
