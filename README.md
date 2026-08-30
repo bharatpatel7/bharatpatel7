@@ -50,7 +50,7 @@
 
 <br/><br/>
 
-![Now playing]((https://shanti.tail4870b3.ts.net/status/nowplaying.svg))
+![Now playing](https://shanti.tail4870b3.ts.net/status/nowplaying.svg)
 
 <hr/>
 
