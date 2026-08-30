@@ -50,6 +50,8 @@
 
 <br/><br/>
 
+![Now playing](https://your-public-url/status/nowplaying.svg)
+
 <hr/>
 
 <!--
