@@ -52,6 +52,7 @@
 
 ![Now playing](https://shanti.tail4870b3.ts.net/status/nowplaying.svg)
 
+![status](https://shanti.tail4870b3.ts.net/status/status-mini.svg)
 <hr/>
 
 <!--
